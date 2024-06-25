@@ -1,0 +1,49 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "item",
+          "weight": 1,
+          "name": "minecraft:potion",
+          "functions": [
+            {
+              "function": "set_count",
+              "count": 1
+            },
+            {
+              "function": "set_components",
+              "components": {
+                "minecraft:potion_contents": {
+                  "custom_color": 11776947,
+                  "custom_effects": [
+                    {
+                      "id": "minecraft:mining_fatigue",
+                      "amplifier": 19,
+                      "duration": 1,
+                      "show_particles": false,
+                      "show_icon": false,
+                      "ambient": false
+                    }
+                  ]
+                },
+                "minecraft:hide_additional_tooltip": {}
+              }
+            },
+            {
+              "function": "set_name",
+              "name": [
+                {
+                  "color": "aqua",
+                  "text": "Empty Experience Bottle"
+                }
+              ],
+              "target": "item_name"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
