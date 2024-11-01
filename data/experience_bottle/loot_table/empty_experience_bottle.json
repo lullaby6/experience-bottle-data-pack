@@ -36,10 +36,10 @@
               "name": [
                 {
                   "color": "aqua",
+                  "italic": false,
                   "text": "Empty Experience Bottle"
                 }
-              ],
-              "target": "item_name"
+              ]
             }
           ]
         }
