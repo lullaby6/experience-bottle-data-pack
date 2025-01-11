@@ -6,13 +6,13 @@ Version: 1.21.X
 
 ## Commands
 
-Disable the Data-Pack:
+Disable:
 
 ```mcfunction
 /datapack disable "file/experience-bottle"
 ```
 
-And enable it:
+Enable:
 
 ```mcfunction
 /datapack enable "file/experience-bottle"
