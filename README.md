@@ -21,13 +21,13 @@ Give Filled Experience Bottle:
 Disable:
 
 ```mcfunction
-/datapack disable "file/experience-bottle"
+/datapack disable "file/experience-bottle.zip"
 ```
 
 Enable:
 
 ```mcfunction
-/datapack enable "file/experience-bottle"
+/datapack enable "file/experience-bottle.zip"
 ```
 
 ## License
