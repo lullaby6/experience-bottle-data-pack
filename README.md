@@ -2,7 +2,11 @@
 
 Store 30 levels of experience in a bottle!
 
-Version: 1.21.X
+Version: `1.21.4`
+
+## Recipe
+
+![recipe](https://raw.githubusercontent.com/lullaby6/experience-bottle-data-pack/refs/heads/main/images/recipe.png)
 
 ## Commands
 
