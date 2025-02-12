@@ -13,13 +13,13 @@ Version: `1.21.4`
 Give Empty Experience Bottle:
 
 ```mcfunction
-/loot give @s loot experience_bottle:empty_experience_bottle
+/loot give @s loot experience_bottle:empty
 ```
 
 Give Filled Experience Bottle:
 
 ```mcfunction
-/loot give @s loot experience_bottle:filled_experience_bottle
+/loot give @s loot experience_bottle:filled
 ```
 
 Disable:
