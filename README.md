@@ -11,16 +11,6 @@
 
 Store 30 levels of experience in a bottle!
 
-Version: `1.21.4`
-
-## 📂 Installation
-
-Move the downloaded file in the path `.minecraft/saves/[world]/datapacks`
-
-## 👾 Bugs/Issues
-
-Please report any bug/issues to the [Discord Server](https://discord.gg/5UdcDa5xNC) in the `bugs` channel, or create a issue in the [Github Repostiroy](https://github.com/lullaby6/experience-bottle-data-pack/issues), or a comment in [Planet Minecraft](https://www.planetminecraft.com/data-pack/experience-bottle/).
-
 ## 🛠️ Recipe
 
 ![recipe](https://raw.githubusercontent.com/lullaby6/experience-bottle-data-pack/refs/heads/main/images/recipe.png)
@@ -39,18 +29,6 @@ Give Filled Experience Bottle:
 /loot give @s loot experience_bottle:filled
 ```
 
-Disable:
-
-```mcfunction
-/datapack disable "file/experience-bottle.zip"
-```
-
-Enable:
-
-```mcfunction
-/datapack enable "file/experience-bottle.zip"
-```
-
 ## 🪪 License
 
-[MIT](https://github.com/lullaby6/experience-bottle-data-pack/blob/main/LICENSE)
+[Limited Embed License v1.0](https://github.com/lullaby6/experience-bottle-data-pack/blob/main/LICENSE)
