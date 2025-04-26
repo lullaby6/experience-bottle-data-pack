@@ -5,6 +5,8 @@
     }
   },
   "rewards": {
-    "recipes": ["experience_bottle:empty"]
+    "recipes": [
+      "experience_bottle:empty"
+    ]
   }
 }
