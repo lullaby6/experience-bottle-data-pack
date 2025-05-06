@@ -23,7 +23,6 @@
                 "minecraft:potion_contents": {
                   "custom_color": 2276636
                 },
-                "minecraft:hide_additional_tooltip": {},
                 "minecraft:consumable": {
                   "consume_seconds": 2,
                   "animation": "drink",
@@ -51,6 +50,11 @@
                     "color": "gray"
                   }
                 ],
+                "minecraft:tooltip_display": {
+                  "hidden_components": [
+                    "minecraft:potion_contents"
+                  ]
+                },
                 "!minecraft:use_remainder": {}
               }
             }
